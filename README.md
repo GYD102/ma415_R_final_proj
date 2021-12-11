@@ -1,2 +1,2 @@
-# ma415_R_final_proj
-Final Project for MA415; Boston University
+# Data Collection and Visualization of Stock Market Data using Alphavantage API
+Final Project for course MA415; Boston University
